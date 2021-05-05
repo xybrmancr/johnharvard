@@ -1,0 +1,10 @@
+{
+    "triggerWords2switch_dict": {
+        "bot_greet": ["hello john harvard", "hi john harvard", "is that john harvard", "is that the real john harvard"]
+	"bot_school_spirit": ["harvard is great", "love harvard", "harvard is awesome", "harvard rocks", "harvard is cool", "harvard is the best"]
+	"committed": ["committed"]
+	"illiterate": ["commited", "comitted", "comited"]
+	"welcome": ["welcome"]
+	"cuss_words": ["yale", "stanford", "harvard sucks"]
+    }
+}

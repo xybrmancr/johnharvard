@@ -1,0 +1,10 @@
+{
+    "switch2response_dict": {
+        "bot_greet": ["Hello, it is I, John Harvard.", "Hello, I am John Harvard incarnate.", "Hello, I am John Harvard.", "Hello."]
+	"bot_school_spirit": ["Go Harvard!", "Long live Harvard (and me)!", "Harvard is #1!", "Harvard rules!"]
+	"committed": ["Welcome to the family!"]
+	"illiterate": ["*Committed, but welcome to the family!"]
+	"welcome": ["Welcome! Let the hazing begin.", "Welcome!", "Welcome, my child!", "Welcome, young grasshopper!"]
+	"cuss_words": ["Do not use such vulgar language in this fine place.", "Vulgar language is not tolerated."]
+    }
+}
