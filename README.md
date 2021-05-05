@@ -1,4 +1,8 @@
 # John Harvard Bot
+**Features in Progress:**
+- Q&A Function - John Harvard automatically answers common questions 
+- Harvard dictionary - e.g. yale = safety school
+- Quote Book Function - certain messages are scraped into a book of quotes
 
 
 **Notes from Original Developer:**
