@@ -4,7 +4,7 @@
 - Harvard dictionary - e.g. yale = safety school
 - Quote Book Function - certain messages are scraped into a book of quotes
 
-\n
+** **
 **Notes from Original Developer:**
 - Runs on a free Heroku account
 - Required Heroku Environment Variables (Config Vars)
